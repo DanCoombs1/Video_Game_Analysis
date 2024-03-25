@@ -15,13 +15,9 @@ This repository contains the data analysis of the IMDb video game website. The d
 - SQL: For data cleaning, manipulation, and analysis.
 - Tableau: For visualisation and creation of interactive dashboards.
 
-## Files
-- `data_analysis.sql`: SQL scripts for data cleaning and analysis tasks.
-- `tableau_dashboards.twb`: Tableau workbook containing interactive dashboards.
-
 ## Usage
 To replicate the analysis or explore the visualisations:
-1. Download the dataset from Kaggle (provide link if possible).
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games).
 2. Execute the SQL scripts in the respective files to clean and analyse the data.
 3. Open `visual_analysis.twb` in Tableau to view the interactive dashboards.
 
