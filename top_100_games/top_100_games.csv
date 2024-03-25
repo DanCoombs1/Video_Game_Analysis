@@ -1,0 +1,101 @@
+"name","year","certificate","rating","votes","Action","Adventure","Comedy","Crime","Family","Fantasy","Mystery","Sci-Fi","Thriller"
+Red Dead Redemption II,2018,M,"9.7","35,703",True,True,False,True,False,False,False,False,False
+The Last of Us,2013,M,"9.7","60,590",True,True,False,False,False,False,False,False,False
+The Witcher 3: Wild Hunt,2015,M,"9.7","26,083",True,True,False,False,False,False,False,False,False
+Mass Effect: Legendary Edition,2021,M,"9.7","1,583",True,True,False,False,False,False,False,True,False
+The Witcher 3: Wild Hunt - Blood and Wine,2016,M,"9.7","7,555",True,True,False,False,False,False,False,False,False
+God of War,2018,M,"9.6","26,118",True,True,False,False,False,False,False,False,False
+Metal Gear Solid,1998,M,"9.6","11,780",True,True,False,False,False,False,False,False,False
+Persona 5 Royal,2019,M,"9.6","1,189",True,True,False,False,False,True,False,False,False
+The Legend of Zelda: Ocarina of Time,1998,E,"9.6","9,526",True,True,False,False,False,True,False,False,False
+Grand Theft Auto V,2013,M,"9.5","59,986",True,False,False,True,False,False,False,False,False
+Uncharted 4: A Thief's End,2016,T,"9.5","28,722",True,True,False,False,False,False,False,False,False
+Elden Ring,2022,M,"9.5","4,108",True,True,False,False,False,True,False,False,False
+Red Dead Redemption,2010,M,"9.5","26,627",True,True,False,False,False,False,False,False,False
+Mass Effect 2,2010,M,"9.5","19,912",True,True,False,False,False,False,False,False,False
+Metal Gear Solid 3: Snake Eater,2004,M,"9.5","10,445",True,True,False,False,False,False,False,False,False
+Star Wars: Knights of the Old Republic,2003,T,"9.5","8,600",True,True,False,False,False,True,False,False,False
+Half-Life: Alyx,2020,,"9.5","725",True,True,False,False,False,False,False,False,False
+Final Fantasy VII,1997,T,"9.5","10,439",True,True,False,False,False,True,False,False,False
+Chrono Trigger,1995,E,"9.5","3,007",True,True,False,False,False,True,False,False,False
+The Witcher 3: Wild Hunt - Hearts of Stone,2015,M,"9.5","6,255",True,True,False,False,False,False,False,False,False
+Metal Gear Solid 3: Subsistence,2005,M,"9.5","2,529",True,True,False,False,False,False,False,False,False
+Grand Theft Auto: San Andreas,2004,M,"9.4","39,629",True,False,False,True,False,False,False,False,False
+Uncharted: The Nathan Drake Collection,2015,T,"9.4","5,383",True,True,False,False,False,True,False,False,False
+Uncharted 2: Among Thieves,2009,T,"9.4","25,048",True,True,False,False,False,True,False,False,False
+The Elder Scrolls V: Skyrim,2011,M,"9.4","29,382",True,True,False,False,False,True,False,False,False
+Batman: Arkham City,2011,T,"9.4","30,763",True,True,False,True,False,False,False,False,False
+The Legend of Zelda: Breath of the Wild,2017,E10+,"9.4","7,138",True,True,False,False,False,True,False,False,False
+Half-Life 2,2004,M,"9.4","16,103",True,True,False,False,False,False,False,True,False
+Metal Gear Solid 4: Guns of the Patriots,2008,M,"9.4","10,612",True,True,False,False,False,False,False,False,False
+Fallout 2: A Post-Nuclear Role-Playing Game,1998,M,"9.4","3,861",True,True,False,False,False,False,False,True,False
+Uncharted: Legacy of Thieves Collection,2022,T,"9.4","267",True,True,False,False,False,False,False,False,False
+Bloodborne: The Old Hunters,2015,M,"9.4","1,528",True,True,False,False,False,True,False,False,False
+Baldur's Gate II: Shadows of Amn,2000,T,"9.4","2,098",True,True,False,False,False,True,False,False,False
+Cookie Run: OvenBreak,2016,E,"9.4","37",True,True,False,False,False,False,False,False,False
+Portal 2,2011,E10+,"9.4","15,609",False,True,True,False,False,False,False,True,False
+Batman: Arkham Collection,2018,M,"9.4","278",False,True,False,False,False,False,False,False,False
+Planescape: Torment,1999,T,"9.4","2,040",False,True,False,False,False,True,False,False,False
+Silent Hill 2,2001,M,"9.4","6,615",False,False,False,False,False,False,True,False,False
+Ghost of Tsushima,2020,M,"9.3","8,452",True,True,False,False,False,False,False,False,False
+Persona 5,2016,M,"9.3","2,665",True,True,False,False,False,True,False,False,False
+Kingdom Hearts II,2005,E10+,"9.3","7,168",True,True,False,False,True,False,False,False,False
+Shadow of the Colossus,2005,T,"9.3","4,035",True,True,False,False,False,False,False,False,False
+Persona 4 Golden,2012,M,"9.3","1,061",True,True,False,False,False,True,False,False,False
+The Legend of Zelda: A Link to the Past,1991,E,"9.3","3,420",True,True,False,False,False,True,False,False,False
+Kingdom Hearts II: Final Mix+,2007,,"9.3","1,281",True,True,False,False,True,False,False,False,False
+The Legend of Zelda: Ocarina of Time 3D,2011,E10+,"9.3","1,099",True,True,False,False,True,False,False,False,False
+Kingdom Hearts HD 1.5 + 2.5 Remix,2017,E10+,"9.3","663",True,True,False,False,True,False,False,False,False
+Mass Effect 3: Citadel,2013,M,"9.3","146",True,True,False,False,False,False,False,True,False
+Omori,2020,M,"9.3","389",False,True,False,False,False,True,False,False,False
+The Secret of Monkey Island,1990,E,"9.3","3,094",False,True,True,False,False,True,False,False,False
+Monkey Island 2: LeChuck's Revenge,1991,,"9.3","2,360",False,True,True,False,False,True,False,False,False
+Tiny Thief,2013,E,"9.3","9",False,True,True,True,False,False,False,False,False
+Disco Elysium - The Final Cut,2021,M,"9.3","359",False,False,True,True,False,False,False,False,False
+RiffTrrax: The Game,2022,,"9.3","7",False,False,True,False,False,False,False,False,False
+Duskwood,2019,,"9.3","11",False,False,False,True,False,False,False,False,False
+P.T.,2014,Not Rated,"9.3","1,763",False,False,False,False,False,False,True,False,False
+Spider-Man,2018,T,"9.2","20,759",True,True,False,False,False,True,False,False,False
+Horizon Forbidden West,2022,T,"9.2","2,979",True,True,False,False,False,False,True,False,False
+Detroit: Become Human,2018,M,"9.2","16,907",True,True,False,False,False,False,False,False,False
+Grand Theft Auto: Vice City,2002,M,"9.2","26,397",True,False,False,True,False,False,False,False,False
+Batman: Arkham Asylum,2009,T,"9.2","27,584",True,True,False,True,False,False,False,False,False
+Resident Evil 4,2005,M,"9.2","13,129",True,True,False,False,False,True,False,False,False
+Bloodborne,2015,M,"9.2","5,444",True,True,False,False,False,True,False,False,False
+God of War II,2007,M,"9.2","9,109",True,True,False,False,False,True,False,False,False
+GTAV,2013,,"9.2","193",True,False,False,True,False,False,False,False,False
+Kingdom Hearts,2002,E,"9.2","7,349",True,True,False,False,True,False,False,False,False
+Max Payne,2001,M,"9.2","15,049",True,False,False,True,False,False,False,False,False
+Mafia: The City of Lost Heaven,2002,M,"9.2","5,894",True,False,False,True,False,False,False,False,False
+Half-Life,1998,M,"9.2","10,164",True,False,False,False,False,False,False,True,True
+Scarface: Money. Power. Respect.,2006,M,"9.2","116",True,False,False,False,False,False,False,False,False
+Fallout: A Post-Nuclear Role-Playing Game,1997,M,"9.2","3,772",True,True,False,False,False,False,False,True,False
+Batman: Return to Arkham,2016,T,"9.2","1,785",True,True,False,True,False,False,False,False,False
+Deus Ex,2000,M,"9.2","3,226",True,True,False,False,False,False,False,False,False
+Shin Megami Tensei: Persona 4,2008,M,"9.2","1,040",True,True,False,False,False,True,False,False,False
+Super Mario World,1990,E,"9.2","4,853",True,True,False,False,True,False,False,False,False
+Castlevania: Symphony of the Night,1997,T,"9.2","1,600",True,True,False,False,False,True,False,False,False
+StarCraft,1998,T,"9.2","5,228",True,True,False,False,False,False,False,True,False
+Soul Hackers 2,2022,M,"9.2","5",True,True,False,False,False,False,False,True,False
+Super Mario Bros. 3,1988,,"9.2","5,207",True,True,False,False,True,False,False,False,False
+Kingdom Hearts HD 2.5 Remix,2014,E10+,"9.2","859",True,True,False,False,True,False,False,False,False
+The Orange Box,2007,M,"9.2","699",True,True,True,False,False,False,False,False,False
+Terminator: Resistance Annihilation Line,2021,,"9.2","8",True,False,False,False,False,False,False,False,False
+Rain World,2017,E10+,"9.2","13",True,True,False,False,False,True,False,False,False
+How Zorak Stole X-Mas,1998,Not Rated,"9.2","5",True,False,True,False,False,True,False,False,False
+Mobile Fighter G-Gundam,1994,,"9.2","7",True,False,False,False,False,False,False,False,False
+Fire Pro Wrestling World,2017,,"9.2","5",True,False,False,False,False,False,False,False,False
+Trogdor!,2003,,"9.2","6",True,False,True,False,False,True,False,False,False
+It Takes Two,2021,T,"9.2","2,180",False,True,True,False,False,False,False,False,False
+Grim Fandango,1998,T,"9.2","3,525",False,True,True,True,False,False,False,False,False
+The Rising of Shield Hero: Relive the Animation,2019,,"9.2","6",False,True,False,False,False,False,False,False,False
+Umineko When They Cry Chiru,2009,,"9.2","134",False,False,False,False,False,True,True,False,False
+The Walking Dead,2012,M,"9.2","12,703",False,False,False,False,False,False,False,True,False
+Mass Effect,2007,M,"9.1","18,158",True,True,False,False,False,False,False,False,False
+Assassin's Creed II,2009,M,"9.1","23,066",True,True,False,False,False,False,False,True,False
+God of War III,2010,M,"9.1","10,355",True,True,False,False,False,True,False,False,False
+Mass Effect 3,2012,M,"9.1","15,572",True,True,False,False,False,False,False,True,False
+Resident Evil 2,2019,M,"9.1","7,029",True,False,False,False,False,False,False,True,False
+BioShock Infinite,2013,M,"9.1","20,162",True,True,False,False,False,False,False,False,False
+BioShock,2007,M,"9.1","19,731",True,True,False,False,False,False,False,False,False
+Fallout 3,2008,M,"9.1","18,904",True,True,False,False,False,False,False,True,False
